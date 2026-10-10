@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my portfolio 👋</h1>
+<h1 align="center">Nicholas Wong's Portfolio :) </h1>
 <div align="center">
 
   <!-- Video 1 -->
