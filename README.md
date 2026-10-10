@@ -1,5 +1,5 @@
 <h1 align="center">Nicholas Wong's Portfolio :) </h1>
-<div align="center">
+
 
   <!-- Video 1 -->
   <a href="https://youtube.com/watch?v=YOUR_VIDEO_ID">
@@ -29,9 +29,9 @@
          alt="Watch Video">
   </a>
 
-</div>
+  <br><br>
 <!-- Video 3 -->
-   <!-- Video 2 -->
+   <br>
   <a href="https://youtu.be/ixg3abcyW1s">
     <img src="https://youtu.be/ixg3abcyW1s" 
          alt="Break dance Loop" 
