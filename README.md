@@ -1,4 +1,18 @@
-# Nicholas Wong's-portfolio
-[![Please watch the video][(https://youtube.com)](https://youtu.be/Dzw5GWBVcNk?si=3m20YZdDMZw5yjZ0))]
+<h1 align="center">Welcome to my portfolio 👋</h1>
+
+<p align="center">
+  <a href="https://youtube.com/watch?v=YOUR_VIDEO_ID">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" 
+         alt="Watch the video" 
+         width="600">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtube.com/watch?v=YOUR_VIDEO_ID">
+    <img src="https://img.shields.io/badge/▶_Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
+         alt="Watch Video">
+  </a>
+</p>
   
 
