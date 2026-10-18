@@ -18,6 +18,12 @@
 <a href="https://youtu.be/W2kq-_VI3Hg">
   Watch: Loops Animal Parade Instruction Nicholas Wong
 </a>
+<!-- Video 5 (top right) -->
+<p align="right">
+  <a href="">
+    Watch: Coming Soon!
+  </a>
+</p>
 
 <br><br>
 
