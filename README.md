@@ -7,20 +7,27 @@
          alt="Write a Program Tutorial Video" 
          width="600">
   </a>
+  <br>
+   <a href="https://youtube.com/watch?v=YOUR_VIDEO_ID">
+    <br>
+    <img src="https://img.shields.io/badge/▶_Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
+         alt="Watch Video">
+  </a>
+    <!--Video 5-->
+  <p align="right">
   <a href="https://youtu.be/sF-dXfKqEdY?si=0gACfOLm0r-H7wg5">
     <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" 
          alt="Nested Loops" 
          width="600"
          align = "right">
-  <br>
-  <a href="https://youtube.com/watch?v=YOUR_VIDEO_ID">
+    <br>
+ <a href="https://youtu.be/sF-dXfKqEdY?si=0gACfOLm0r-H7wg5">
     <br>
     <img src="https://img.shields.io/badge/▶_Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
          alt="Watch Video">
   </a>
-
-  <br><br>
-
+  </a>
+  </p>
   <!-- Video 2 -->
   <a href="https://youtu.be/W2kq-_VI3Hg">
     <img src="" 
