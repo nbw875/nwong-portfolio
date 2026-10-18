@@ -1,59 +1,28 @@
 <h1 align="center">Nicholas Wong's Portfolio :) </h1>
-
-
-  <!-- Video 1 -->
-  <a href="https://youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" 
-         alt="Write a Program Tutorial Video" 
-         width="600">
-  </a>
-  <br>
-   <a href="https://youtube.com/watch?v=YOUR_VIDEO_ID">
-    <br>
-    <img src="https://img.shields.io/badge/▶_Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
-         alt="Watch Video">
-  </a>
-    <!--Video 5-->
-  <p align="right">
+<!-- Video 4 (top right) -->
+<p align="right">
   <a href="https://youtu.be/sF-dXfKqEdY?si=0gACfOLm0r-H7wg5">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" 
-         alt="Nested Loops" 
-         width="600"
-         align = "right">
-    <br>
- <a href="https://youtu.be/sF-dXfKqEdY?si=0gACfOLm0r-H7wg5">
-    <br>
-    <img src="https://img.shields.io/badge/▶_Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
-         alt="Watch Video">
+    Watch: Nested Loops
   </a>
-  </a>
-  </p>
-  <!-- Video 2 -->
-  <a href="https://youtu.be/W2kq-_VI3Hg">
-    <img src="" 
-         alt="Loops Animal Parade Instruction Nicholas Wong" 
-         width="600">
-  </a>
-  <br>
-  <a href="https://youtu.be/W2kq-_VI3Hg">
-    <br>
-    <img src="https://img.shields.io/badge/▶_Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
-         alt="Watch Video">
-  </a>
+</p>
+<!-- Video 1 -->
+<p align="left">
+<a href="https://youtube.com/watch?v=YOUR_VIDEO_ID">
+  Watch: Write a Program Tutorial Video
+</a>
 
-  <br><br>
+<br><br>
+
+<!-- Video 2 -->
+<p align="left">
+<a href="https://youtu.be/W2kq-_VI3Hg">
+  Watch: Loops Animal Parade Instruction Nicholas Wong
+</a>
+
+<br><br>
+
 <!-- Video 3 -->
-   <br>
-  <a href="https://youtu.be/ixg3abcyW1s">
-    <img src="https://youtu.be/ixg3abcyW1s" 
-         alt="Break dance Loop" 
-         width="600">
-  </a>
-  <br>
-  <a href="https://youtu.be/ixg3abcyW1s">
-    <br>
-    <img src="https://img.shields.io/badge/▶_Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
-         alt="Please this Watch Video">
-  </a>
-
-
+<p align="left">
+<a href="https://youtu.be/ixg3abcyW1s">
+  Watch: Break dance Loop
+</a>
