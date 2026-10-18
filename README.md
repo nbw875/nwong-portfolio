@@ -7,6 +7,11 @@
          alt="Write a Program Tutorial Video" 
          width="600">
   </a>
+  <a href="https://youtu.be/sF-dXfKqEdY?si=0gACfOLm0r-H7wg5">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" 
+         alt="Nested Loops" 
+         width="600"
+         align = "right">
   <br>
   <a href="https://youtube.com/watch?v=YOUR_VIDEO_ID">
     <br>
