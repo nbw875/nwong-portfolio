@@ -20,8 +20,8 @@
 </a>
 <!-- Video 5 (top right) -->
 <p align="right">
-  <a href="">
-    Watch: Coming Soon!
+  <a href="https://youtu.be/OS_z9aZ0Gmo">
+    Watch: WP Events
   </a>
 </p>
 
