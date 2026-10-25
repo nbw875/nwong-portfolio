@@ -24,6 +24,13 @@
     Watch: WP Events
   </a>
 </p>
+<br><br>
+<!-- Video 6 (Middle right)-->
+<p align="right">
+  <a href="">
+    Watch: Coming soon!
+  </a>
+</p>
 
 <br><br>
 
@@ -32,3 +39,5 @@
 <a href="https://youtu.be/ixg3abcyW1s">
   Watch: Break dance Loop
 </a>
+
+
