@@ -28,7 +28,7 @@
 <!-- Video 6 (Middle right)-->
 <p align="right">
   <a href="https://youtu.be/X1ceI5s6lA0">
-    Watch: WP_Events
+    Watch: WP_Var
   </a>
 </p>
 
