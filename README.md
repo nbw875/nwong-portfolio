@@ -39,5 +39,11 @@
 <a href="https://youtu.be/ixg3abcyW1s">
   Watch: Break dance Loop
 </a>
+  <br><br>
+<!-- Video 7 -->
+<p align="left">
+<a href="">
+  New Video Coming Soon!
+</a>
 
 
