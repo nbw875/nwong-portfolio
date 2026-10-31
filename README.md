@@ -42,8 +42,8 @@
   <br><br>
 <!-- Video 7 -->
 <p align="left">
-<a href="">
-  New Video Coming Soon!
+<a href="https://youtu.be/wXPC4QEnzNQ?si=LuuYiThjSMw0JsGr">
+ Conditional Loops
 </a>
 
 
