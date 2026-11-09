@@ -31,7 +31,13 @@
     Watch: WP_Varibles
   </a>
 </p>
-
+<br><br>
+<!-- Video 8 (Middle right)-->
+<p align="right">
+  <a href="">
+    Watch: Lorem Ipsum
+  </a>
+</p>
 <br><br>
 
 <!-- Video 3 -->
