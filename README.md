@@ -32,13 +32,19 @@
   </a>
 </p>
 <br><br>
-<!-- Video 8 (Middle right)-->
+<!-- Video 8 (right)-->
 <p align="right">
   <a href="https://youtu.be/t_cNbJyHZsU?si=picsrLj7dEtrvkpx">
     Watch: Else If
   </a>
 </p>
 <br><br>
+<!-- Video 9 (right)-->
+<p align="right">
+  <a href="https://youtu.be/0TlhV4OoiAE?si=fRGlx3EOSeeMH0nl">
+    Watch: Compound Conditionals
+  </a>
+</p>
 
 <!-- Video 3 -->
 <p align="left">
