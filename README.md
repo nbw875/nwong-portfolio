@@ -5,20 +5,7 @@
     Watch: Nested Loops
   </a>
 </p>
-<!-- Video 1 -->
-<p align="left">
-<a href="https://youtube.com/watch?v=YOUR_VIDEO_ID">
-  Watch: Write a Program Tutorial Video
-</a>
-
-<br><br>
-
-<!-- Video 2 -->
-<p align="left">
-<a href="https://youtu.be/W2kq-_VI3Hg">
-  Watch: Loops Animal Parade Instruction Nicholas Wong
-</a>
-<!-- Video 5 (top right) -->
+ <!-- Video 5 (top right) -->
 <p align="right">
   <a href="https://youtu.be/OS_z9aZ0Gmo">
     Watch: WP Events
@@ -45,6 +32,19 @@
     Watch: Compound Conditionals
   </a>
 </p>
+<!-- Video 1 -->
+<p align="left">
+<a href="https://youtube.com/watch?v=YOUR_VIDEO_ID">
+  Watch: Write a Program Tutorial Video
+</a>
+
+<br><br>
+
+<!-- Video 2 -->
+<p align="left">
+<a href="https://youtu.be/W2kq-_VI3Hg">
+  Watch: Loops Animal Parade Instruction Nicholas Wong
+</a>
 
 <!-- Video 3 -->
 <p align="left">
@@ -62,5 +62,8 @@
 <a href="https://youtu.be/884vdOk1Bts?si=TD6UuWhgQ4WbtmA7">
  Nested If Else
 </a>
+ 
+
+
 
 
